@@ -1,8 +1,0 @@
-cp -r landon-player-final-site/index.html .
-cp -r landon-player-final-site/css .
-cp -r landon-player-final-site/pages .
-cp -r landon-player-final-site/images .
-rm -rf landon-player-final-site
-git add .
-git commit -m "Move website files to root folder"
-git push
